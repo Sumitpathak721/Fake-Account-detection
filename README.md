@@ -56,13 +56,13 @@ The project consists of two main components:
 1. Run the data collection script to gather user details:
 
     ```bash
-    python data_collection.py
+    python Checker.py
     ```
 
 2. Train the detection model:
 
     ```bash
-    python train_model.py
+    python model.py
     ```
 
 3. Open the web app and input a Twitter username to get the detection results.
